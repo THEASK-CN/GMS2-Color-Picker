@@ -1,3 +1,5 @@
+This is an open source asset package that allows arbitrary use, modification and dissemination.
+
 Features introduction:
 
 1. Use the color_picker_create(); function to create a color picker and define the side length of the saturation and brightness slider, the width of the hue slider, the spacing width and the background color.
@@ -7,6 +9,8 @@ Features introduction:
 5. Use the hex_to_color(); function to convert HEX color codes to color values, and support loose matching.
 6. Use the left mouse button to click and drag the slider to adjust the saturation, brightness or hue.
 7. Use the arrow keys to adjust saturation or brightness, and use the plus and minus keys to adjust the hue.
+
+这是一个开源资产包，允许任意使用、修改和传播。
 
 特性介绍：
 
